@@ -15,7 +15,7 @@ int main()
               << "."
               << Tutorial_VERSION_MINOR
               << std::endl;
-    #if USE_MYMATH
+    #ifdef USE_MYMATH
       std::cout << "Using MY MATH" << std::endl;
       std::cout << "Square root of 5 = " << mysqrt(5.0) << std::endl;
     #else
