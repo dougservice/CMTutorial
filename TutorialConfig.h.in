@@ -1,0 +1,9 @@
+#ifndef TUTORIAL_VERSION
+#define TUTORIAL_VERSION
+
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
+
+//#cmakedefne USE_MYMATH
+
+#endif
