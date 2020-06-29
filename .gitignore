@@ -32,5 +32,6 @@ IntelliJ IDEA
 *.out
 *.app
 
-# CMake Directory
-Out/
+# CMake Directories
+out/
+outvs/
